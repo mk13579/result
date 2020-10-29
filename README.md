@@ -9,9 +9,9 @@
 |baseline+知识消融1_3|null|null|null|
 |baseline+知识消融2_3|null|null|null|
 |baseline+知识消融1_2_3|64.92|65.07|64.31|
-|baseline+知识消融1_2_3+Encoder|null|null|null|
+~~|baseline+知识消融1_2_3+Encoder|null|null|null|~~
 |baseline+知识消融1_2_3+反馈|65.89|64.66|63.45|
 |baseline+知识消融1_2_3+反馈+CRF|null|null|null|
 |baseline+Encoder|65.15|63.92|63.57|
-|baseline+Encoder前加知识融合3|null|null|null|
-|baseline+Encoder后加知识融合3|null|null|null|
+~~|baseline+Encoder前加知识融合3|null|null|null|~~
+~~|baseline+Encoder后加知识融合3|null|null|null|~~
