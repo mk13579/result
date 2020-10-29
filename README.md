@@ -16,3 +16,4 @@
 |~~baseline+Encoder前加知识融合3~~|null|null|null|
 |~~baseline+Encoder后加知识融合3~~|null|null|null|
 |baseline+在前知识融合3|null|null|null|
+|baseline+知识融合2+反馈+CRF|null|null|null|
