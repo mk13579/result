@@ -12,3 +12,4 @@
 |baseline+迁移1_2_3+Encoder|null|null|null|
 |baseline+迁移1_2_3+反馈|65.89|64.66|63.45|
 |baseline+迁移1_2_3+反馈+CRF|null|null|null|
+|baseline+Encoder|65.15|63.92|63.57|
