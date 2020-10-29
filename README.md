@@ -4,11 +4,11 @@
 |我跑的baseline|65.27|64.52|64.19|
 |baseline+迁移1|66.19|65.36|64.64|
 |baseline+迁移2|66.52|65.88|65.08|
-|baseline+迁移3|单元格|单元格|单元格|
+|baseline+迁移3|null|null|null|
 |baseline+迁移1_2|65.84|65.49|64.66|
-|baseline+迁移1_3|单元格|单元格|单元格|
-|baseline+迁移2_3|单元格|单元格|单元格|
+|baseline+迁移1_3|null|null|null|
+|baseline+迁移2_3|null|null|null|
 |baseline+迁移1_2_3|64.92|65.07|64.31|
-|baseline+迁移1_2_3+Encoder|单元格|单元格|单元格|
+|baseline+迁移1_2_3+Encoder|null|null|null|
 |baseline+迁移1_2_3+反馈|65.89|64.66|63.45|
-|baseline+迁移1_2_3+反馈+CRF|单元格|单元格|单元格|
+|baseline+迁移1_2_3+反馈+CRF|null|null|null|
