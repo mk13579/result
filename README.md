@@ -4,7 +4,7 @@
 |我跑的baseline|65.27|64.52|64.19|
 |baseline+知识消融1|66.19|65.36|64.64|
 |baseline+知识消融2|66.52|65.88|65.08|
-|baseline+知识消融3|null|null|null|
+|baseline+知识消融3|65.86|65.45|64.52|
 |baseline+知识消融1_2|65.84|65.49|64.66|
 |baseline+知识消融1_3|null|null|null|
 |baseline+知识消融2_3|null|null|null|
