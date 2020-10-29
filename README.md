@@ -15,3 +15,4 @@
 |baseline+Encoder|65.15|63.92|63.57|
 |~~baseline+Encoder前加知识融合3~~|null|null|null|
 |~~baseline+Encoder后加知识融合3~~|null|null|null|
+|baseline+在前知识融合3|null|null|null|
