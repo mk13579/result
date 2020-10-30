@@ -14,7 +14,7 @@
 |baseline+1处加知识消融3|null|null|null|
 |baseline+1处加知识消融3+反馈+CRF|null|null|null|
 |baseline+1处加知识消融3+知识消融2+反馈+CRF|null|null|null|
-|baseline+知识消融2+反馈+CRF|null|null|null|
+|baseline+知识消融2+反馈+CRF|54.88|55.42|53.10|
 |baseline+Encoder|65.15|63.92|63.57|
 |~~baseline+知识消融1_2_3+Encoder~~|null|null|null|
 |~~baseline+Encoder前加知识消融3~~|null|null|null|
