@@ -12,6 +12,9 @@
 |baseline+知识消融1_2_3+反馈|65.89|64.66|63.45|
 |baseline+1处加知识消融3|66.23|65.49|64.58|
 |baseline+Encoder|65.15|63.92|63.57|
+|baseline+知识消融2+GRU|null|null|null|
+|baseline+1处加知识消融3_2|null|null|null|
+|baseline+知识消融2+Attention|null|null|null|
 |~~baseline+1处加知识消融3+反馈+CRF~~|null|null|null|
 |~~baseline+1处加知识消融3+知识消融2+反馈+CRF~~|null|null|null|
 |~~baseline+知识消融2+反馈+CRF~~|54.88|55.42|53.10|
