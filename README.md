@@ -11,7 +11,7 @@
 |baseline+知识消融1_2_3|64.92|65.07|64.31|
 |baseline+知识消融1_2_3+反馈|65.89|64.66|63.45|
 |baseline+知识消融1_2_3+反馈+CRF|null|null|null|
-|baseline+1处加知识消融3|null|null|null|
+|baseline+1处加知识消融3|66.23|65.49|64.58|
 |baseline+1处加知识消融3+反馈+CRF|null|null|null|
 |baseline+1处加知识消融3+知识消融2+反馈+CRF|null|null|null|
 |baseline+知识消融2+反馈+CRF|54.88|55.42|53.10|
