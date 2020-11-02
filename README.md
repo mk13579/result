@@ -18,7 +18,7 @@
 |baseline+知识消融2(GRU+Attention)+|65.95|65.46|64.90|
 |2020ACL+用GRU-|32.08|35.87|30.08|
 |baseline+知识消融2+GRU+LSTM+|67.14|65.71|65.09|
-|baseline+知识消融2+GRU+GRU(7轮)+|67.20|66.41|65.32|
+|baseline+知识消融2+GRU+GRU(7轮)+|67.37|66.50|65.54|
 |baseline+知识消融2(GRU)+|66.13|65.60|64.91|
 |~~baseline+1处加知识消融3+反馈+CRF~~|null|null|null|
 |~~baseline+1处加知识消融3+知识消融2+反馈+CRF~~|null|null|null|
