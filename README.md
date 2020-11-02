@@ -13,7 +13,7 @@
 |baseline+1处加知识消融3|66.23|65.49|64.58|
 |baseline+Encoder|65.15|63.92|63.57|
 |baseline+知识消融2+GRU|67.42|65.80|64.96|
-|baseline+1处加知识消融3+GRU|null|null|null|
+|baseline+1处加知识消融3+GRU(7轮)|65.41|65.27|64.39|
 |baseline+1处加知识消融3_2|65.07|64.95|63.94|
 |baseline+知识消融2(GRU+Attention)|65.95|65.46|64.90|
 |2020ACL+用GRU|32.08|35.87|30.08|
