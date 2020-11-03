@@ -20,10 +20,6 @@
 |baseline+知识消融2+GRU+LSTM+|67.14|65.71|65.09|
 |baseline+知识消融2+GRU+GRU+|67.56|66.36|65.45|
 |baseline+知识消融2(GRU)+|66.13|65.60|64.91|
-|~~baseline+1处加知识消融3+反馈+CRF~~|null|null|null|
-|~~baseline+1处加知识消融3+知识消融2+反馈+CRF~~|null|null|null|
-|~~baseline+知识消融2+反馈+CRF~~|54.88|55.42|53.10|
-|~~baseline+知识消融1_2_3+反馈+CRF~~|null|null|null|
-|~~baseline+知识消融1_2_3+Encoder~~|null|null|null|
-|~~baseline+Encoder前加知识消融3~~|null|null|null|
-|~~baseline+Encoder后加知识消融3~~|null|null|null|
+|2020ACL+用GRU预测最后一个(预训练)-|27.05|22.61|17.80|
+|2020ACL+用GRU预测最后一个(未预训练)-|27.05|22.61|17.80|
+
