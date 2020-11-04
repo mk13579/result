@@ -1,3 +1,3 @@
-|model|ACC|F1|mF1|happy_ACC/F1|sad_ACC/F1|neutral_ACC/F1|angry_ACC/F1|excited_ACC/F1|frustrated_ACC/F1|
+|model|ACC|F1|mF1|hap_ACC/F1|sad_ACC/F1|neu_ACC/F1|ang_ACC/F1|exc_ACC/F1|fru_ACC/F1|
 |----|----|----|----|----|----|----|----|----|----|
 
