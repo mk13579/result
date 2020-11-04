@@ -1,11 +1,11 @@
 <table>
 	<tr>
-	    <th>属性</th>
-	    <th>属性值</th>
-	    <th>描述</th>  
+	    <th>model</th>
+	    <th>IEMOCAP</th>
+	    <th>MELD</th>  
 	</tr >
 	<tr >
-	    <td rowspan="9">type</td>
+	    <td rowspan="2">type</td>
 	    <td>text</td>
 	    <td>单行文本输入框</td>
 	</tr>
