@@ -1,28 +1,68 @@
-|model|ACC|F1|
-|model|ACC|F1|mF1|
-|----|----|----|----|
-|论文中baseline|63.50|63.50|63.00|
-|我跑的baseline|65.27|64.52|64.19|
-|baseline+知识消融1+|66.19|65.36|64.64|
-|baseline+知识消融2+|66.52|65.88|65.08|
-|baseline+知识消融3+|65.86|65.45|64.52|
-|baseline+知识消融1_2+|65.84|65.49|64.66|
-|baseline+知识消融1_3-|64.76|65.14|64.18|
-|baseline+知识消融2_3-|64.99|64.92|64.16|
-|baseline+知识消融1_2_3-|64.92|65.07|64.31|
-|baseline+知识消融1_2_3+反馈+|65.89|64.66|63.45|
-|baseline+1处加知识消融3+|66.23|65.49|64.58|
-|baseline+Encoder-|65.15|63.92|63.57|
-|baseline+知识消融2+GRU+|67.42|65.80|64.96|
-|baseline+1处加知识消融3+GRU(7轮)+|65.41|65.27|64.39|
-|baseline+1处加知识消融3_2-|65.07|64.95|63.94|
-|baseline+知识消融2(GRU+Attention)+|65.95|65.46|64.90|
-|2020ACL+用GRU-|32.08|35.87|30.08|
-|2020ACL+用GRU，只预测Q-(8轮)|48.67|52.36|46.47|
-|baseline+知识消融2(LSTM)+GRU+|67.14|65.71|65.09|
-|baseline+知识消融2(GRU)+GRU+|67.56|66.36|65.45|
-|**baseline+知识消融2(GRU)+3放到1+GRU+**|**67.90**|**67.07**|**66.15**|
-|baseline+知识消融2(GRU)+|66.13|65.60|64.91|
-|2020ACL+用GRU预测最后一个(预训练)-|27.05|22.61|17.80|
-|2020ACL+用GRU预测最后一个(未预训练)-|29.96|24.44|20.09|
-
+<table>
+	<tr>
+	    <th>属性</th>
+	    <th>属性值</th>
+	    <th>描述</th>  
+	</tr >
+	<tr >
+	    <td rowspan="9">type</td>
+	    <td>text</td>
+	    <td>单行文本输入框</td>
+	</tr>
+	<tr>
+	    <td>password</td>
+	    <td>密码输入框</td>
+	</tr>
+	<tr>
+	    <td>radio</td>
+	    <td>单选按钮</td>
+	</tr>
+	<tr>
+	    <td>CheckBox</td>
+	    <td>复选按钮</td>
+	</tr>
+	<tr><td>button</td>
+	    <td>普通按钮</td>
+	</tr>
+	<tr>
+	    <td>submit</td>
+	    <td>提交按钮</td>
+	</tr>
+	<tr>
+	    <td>reset</td>
+	    <td>重置按钮</td>
+	</tr>
+	<tr>
+	    <td>image</td>
+	    <td>图像形式的提交按钮</td>
+	</tr>
+	<tr>
+	    <td >file</td>
+	    <td>文件域</td>
+	</tr>
+	<tr>
+	    <td >name</td>
+	    <td>用户自定义</td>
+	    <td>控件名称</td>
+	</tr>
+	<tr>
+	    <td >value</td>
+	    <td >用户自定义</td>
+	    <td >默认文本值</td>
+	</tr>
+	<tr>
+	    <td >size</td>
+	    <td >正整数</td>
+	    <td >控件在页面中的显示宽度</td>
+	</tr>
+	<tr>
+	    <td >checked</td>
+	    <td >checked</td>
+	    <td >定义选择控件默认被选中项</td>
+	</tr>
+	<tr>
+	    <td >maxlength</td>
+	    <td >正整数</td>
+	    <td >控件允许输入的最多字符</td>
+	</tr>
+</table>
