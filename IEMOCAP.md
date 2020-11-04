@@ -1,3 +1,3 @@
-|model|ACC|F1|MF1|happy|sad|neutral|angry|excited|frustrated|
+|model|ACC|F1|mF1|happy|sad|neutral|angry|excited|frustrated|
 |----|----|----|----|----|----|----|----|----|----|
 
