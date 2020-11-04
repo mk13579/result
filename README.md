@@ -7,7 +7,6 @@
 	<tr>
 	    <td >checked</td>
 	    <td >checked</td>
-	    <td >定义选择控件默认被选中项</td>
 	</tr>
 	<tr>
 	    <td >maxlength</td>
