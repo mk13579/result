@@ -1,6 +1,7 @@
 |model|ACC|F1|mF1|hap ACC/F1|sad ACC/F1|neu ACC/F1|ang ACC/F1|exc ACC/F1|fru ACC/F1|
 |----|----|----|----|----|----|----|----|----|----|
-|baseline|null|null|null|null|null|null|null|null|null|
+|论文中baseline|null|null|null|null|null|null|null|null|null|
+|我跑的baseline|null|null|null|null|null|null|null|null|null|
 |baseline+知识消融A|null|null|null|null|null|null|null|null|null|
 |baseline+知识消融B(GRU)|null|null|null|null|null|null|null|null|null|
 |baseline+GRU|null|null|null|null|null|null|null|null|null|
