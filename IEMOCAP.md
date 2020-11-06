@@ -5,7 +5,7 @@
 |baseline+知识A|null|null|null|null|null|null|null|null|null|
 |baseline+知识B|null|null|null|null|null|null|null|null|null|
 |baseline+GRU(3LOSS)|65.74|64.81|64.41|55.21/54.76|80.28/76.31|58.73/**76.31**|70.06/62.67|72.24/69.18|60.38/64.08|
-|baseline+知识A+GRU|null|null|null|null|null|null|null|null|null|
+|baseline+知识A+GRU(3LOSS)|null|null|null|null|null|null|null|null|null|
 |baseline+知识A_B|null|null|null|null|null|null|null|null|null|
-|baseline+知识B+GRU|null|null|null|null|null|null|null|null|null|
+|baseline+知识B+GRU(3LOSS)|null|null|null|null|null|null|null|null|null|
 |**baseline+知识A_B+GRU**|**68.20**|**67.29**|**66.36**|**58.18**/54.10|**81.91**/**78.99**|**62.02**/64.72|**70.64**/**63.17**|73.58/70.62|64.09/**66.58**|
