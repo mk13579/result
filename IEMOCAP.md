@@ -8,5 +8,5 @@
 |baseline+知识A+GRU|null|null|null|null|null|null|null|null|null|
 |baseline+知识A_B|null|null|null|null|null|null|null|null|null|
 |baseline+知识B+GRU|null|null|null|null|null|null|null|null|null|
-|**baseline+知识A_B+GRU**|**68.20**|**67.29**|**66.36**|**58.18**/54.10|**81.91**/**78.99**|**62.02**/**64.72**|**70.64**/**63.17**|73.58/70.62|**64.09**/**66.58**|
+|**baseline+知识A_B+GRU**|**68.20**|**67.29**|**66.36**|**58.18**/54.10|**81.91**/**78.99**|**62.02**/**64.72**|**70.64**/**63.17**|73.58/70.62|64.09/**66.58**|
 
