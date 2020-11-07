@@ -1,11 +1,12 @@
 |model|ACC|F1|mF1|neu ACC/F1|sur ACC/F1|fea ACC/F1|sad ACC/F1|joy ACC/F1|dis ACC/F1|ang ACC/F1|
 |----|----|----|----|----|----|----|----|----|----|----|
-|baseline|null|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融A|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融B(GRU)|null|null|null|null|null|null|null|null|null|null|
+|论文的baseline|null|null|null|null|null|null|null|null|null|null|null|
+|我跑的baseline|null|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识B|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A_B|null|null|null|null|null|null|null|null|null|null|
 |baseline+GRU|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融A+GRU|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融B(GRU)+知识消融A|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融B(GRU)+GRU|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识消融B(GRU)+知识消融A+GRU|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A+GRU|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识B+GRU|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A_B+GRU|null|null|null|null|null|null|null|null|null|null|
 
