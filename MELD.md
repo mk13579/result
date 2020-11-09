@@ -8,5 +8,5 @@
 |baseline+GRU|null|null|null|null|null|null|null|null|null|null|
 |baseline+知识A+GRU|null|null|null|null|null|null|null|null|null|null|
 |baseline+知识B+GRU|null|null|null|null|null|null|null|null|null|null|
-|baseline+知识A_B+GRU|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A_B+GRU|57.89|58.08|37.06|69.15/76.26|53.30/50.14|20.29/5.10|38.53/26.90|55.70/52.78|26.80/7.18|46.47/41.09|
 
