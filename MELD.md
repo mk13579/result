@@ -6,7 +6,7 @@
 |baseline+知识B|null|null|null|null|null|null|null|null|null|null|
 |baseline+知识A_B|null|null|null|null|null|null|null|null|null|null|
 |baseline+GRU|57.79|58.18|37.68|69.88/76.13|51.33/50.80|21.32/7.65|38.76/26.32|55.55/53.54|22.24/8.78|45.40/40.58|
-|baseline+知识A+GRU|null|null|null|null|null|null|null|null|null|null|
+|baseline+知识A+GRU|57.54|57.81|37.06|69.36/76.12|51.04/50.37|23.57/6.96|39.60/23.76|55.18/52.90|25.30/8.80|44.64/40.50|
 |baseline+知识B+GRU|null|null|null|null|null|null|null|null|null|null|
 |baseline+知识A_B+GRU|57.89|58.08|37.06|69.15/76.26|53.30/50.14|20.29/5.10|38.53/26.90|55.70/52.78|26.80/7.18|46.47/41.09|
 
